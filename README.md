@@ -17,12 +17,19 @@ A Flutter project to view current weather status.
 
 ## Screenshots
 
-### Light
+<table>
+<tr><td colspan="2">Light</td></tr>
 
-![home-light.png](screenshots%2Fhome-light.png)
-![settings-light.png](screenshots%2Fsettings-light.png)
+  <tr> 
+<td> <img width="250px" src="screenshots/home-light.png">  </td>
+    <td>  <img width="250px" src="screenshots/settings-light.png">  </td>
+  </tr>
+<tr><td colspan="2">Dark</td></tr>
 
-### Dark
+  <tr>
+     <td>  <img width="250px" src="screenshots/home-dark.png"></td>
+    <td>  <img width="250px" src="screenshots/settings-dark.png"></td>
+  </tr>
 
-![home-dark.png](screenshots%2Fhome-dark.png)
-![settings-dark.png](screenshots%2Fsettings-dark.png)
+</table>
+
